@@ -6,6 +6,7 @@ Tested gcc-7 and clang-6.0
 
 Just playing around with C++ to better understand the standard library.
 
+```
 // For everything below:
 #include "algorithm.hxx" 
 
@@ -77,5 +78,5 @@ Just playing around with C++ to better understand the standard library.
 // ------- Permutation Operations
 // is_permutation
 // next_permutation, prev_permutation
-
+```
 
